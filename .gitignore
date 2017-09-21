@@ -1,10 +1,11 @@
 # User Specific Files
-
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 *.userprefs
+*.mdf
+*.ldf
 
 # Build Results
 [Dd]ebug
