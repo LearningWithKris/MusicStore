@@ -1,0 +1,330 @@
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\MusicStore.dll.config
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\MusicStore.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\MusicStore.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Antlr3.Runtime.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.AspNet.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.Core.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\EntityFramework.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Microsoft.Data.Edm.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Microsoft.Data.OData.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Newtonsoft.Json.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Spatial.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.Http.OData.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.Optimization.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.Razor.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\WebGrease.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\WebMatrix.Data.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\WebMatrix.WebData.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\EntityFramework.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Newtonsoft.Json.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.Razor.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\WebMatrix.Data.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\WebMatrix.WebData.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.AspNet.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.Core.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Web.Http.OData.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Microsoft.Data.Edm.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\Microsoft.Data.OData.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\System.Spatial.xml
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\de\System.Spatial.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\es\System.Spatial.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\fr\System.Spatial.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\it\System.Spatial.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\ja\System.Spatial.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\ko\System.Spatial.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\ru\System.Spatial.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+c:\users\anthony\documents\visual studio 2013\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\00.src\MusicStore\MusicStore\bin\MusicStore.dll.config
+C:\00.src\MusicStore\MusicStore\bin\MusicStore.dll
+C:\00.src\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\00.src\MusicStore\MusicStore\bin\Antlr3.Runtime.dll
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.AspNet.dll
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.Core.dll
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.dll
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.dll
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\00.src\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\00.src\MusicStore\MusicStore\bin\Microsoft.Data.Edm.dll
+C:\00.src\MusicStore\MusicStore\bin\Microsoft.Data.OData.dll
+C:\00.src\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\00.src\MusicStore\MusicStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\00.src\MusicStore\MusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\00.src\MusicStore\MusicStore\bin\Newtonsoft.Json.dll
+C:\00.src\MusicStore\MusicStore\bin\System.Spatial.dll
+C:\00.src\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+C:\00.src\MusicStore\MusicStore\bin\System.Web.Http.OData.dll
+C:\00.src\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+C:\00.src\MusicStore\MusicStore\bin\System.Web.Optimization.dll
+C:\00.src\MusicStore\MusicStore\bin\System.Web.Razor.dll
+C:\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+C:\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\00.src\MusicStore\MusicStore\bin\WebGrease.dll
+C:\00.src\MusicStore\MusicStore\bin\WebMatrix.Data.dll
+C:\00.src\MusicStore\MusicStore\bin\WebMatrix.WebData.dll
+C:\00.src\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\00.src\MusicStore\MusicStore\bin\Newtonsoft.Json.xml
+C:\00.src\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+C:\00.src\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+C:\00.src\MusicStore\MusicStore\bin\System.Web.Razor.xml
+C:\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+C:\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\00.src\MusicStore\MusicStore\bin\WebMatrix.Data.xml
+C:\00.src\MusicStore\MusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\00.src\MusicStore\MusicStore\bin\WebMatrix.WebData.xml
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.AspNet.xml
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.Core.xml
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.xml
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.xml
+C:\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\00.src\MusicStore\MusicStore\bin\System.Web.Http.OData.xml
+C:\00.src\MusicStore\MusicStore\bin\Microsoft.Data.Edm.xml
+C:\00.src\MusicStore\MusicStore\bin\Microsoft.Data.OData.xml
+C:\00.src\MusicStore\MusicStore\bin\System.Spatial.xml
+C:\00.src\MusicStore\MusicStore\bin\de\Microsoft.Data.Edm.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\es\Microsoft.Data.Edm.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\it\Microsoft.Data.Edm.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\de\Microsoft.Data.OData.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\es\Microsoft.Data.OData.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\fr\Microsoft.Data.OData.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\it\Microsoft.Data.OData.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\ja\Microsoft.Data.OData.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\ko\Microsoft.Data.OData.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\ru\Microsoft.Data.OData.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\de\System.Spatial.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\es\System.Spatial.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\fr\System.Spatial.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\it\System.Spatial.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\ja\System.Spatial.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\ko\System.Spatial.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\ru\System.Spatial.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\zh-Hans\System.Spatial.resources.dll
+C:\00.src\MusicStore\MusicStore\bin\zh-Hant\System.Spatial.resources.dll
+C:\00.src\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\00.src\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\00.src\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\MusicStore.dll.config
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\MusicStore.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Antlr3.Runtime.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.AspNet.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.Core.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Microsoft.Data.Edm.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Microsoft.Data.OData.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Newtonsoft.Json.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Net.Http.Formatting.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Spatial.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Http.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Http.OData.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Http.WebHost.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Optimization.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Razor.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\WebGrease.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\WebMatrix.WebData.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Newtonsoft.Json.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Net.Http.Formatting.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Http.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Http.WebHost.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Razor.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\WebMatrix.Data.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\WebMatrix.WebData.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.AspNet.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.Core.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Web.Http.OData.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Microsoft.Data.Edm.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\Microsoft.Data.OData.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\System.Spatial.xml
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\de\Microsoft.Data.Edm.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\es\Microsoft.Data.Edm.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\it\Microsoft.Data.Edm.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\de\Microsoft.Data.OData.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\es\Microsoft.Data.OData.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\fr\Microsoft.Data.OData.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\it\Microsoft.Data.OData.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\ja\Microsoft.Data.OData.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\ko\Microsoft.Data.OData.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\ru\Microsoft.Data.OData.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\de\System.Spatial.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\es\System.Spatial.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\fr\System.Spatial.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\it\System.Spatial.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\ja\System.Spatial.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\ko\System.Spatial.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\ru\System.Spatial.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\zh-Hans\System.Spatial.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\bin\zh-Hant\System.Spatial.resources.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\00.Source\AVObserverSolution\00.src\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\00.Source\MusicStore\MusicStore\bin\MusicStore.dll.config
+C:\00.Source\MusicStore\MusicStore\bin\MusicStore.dll
+C:\00.Source\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\00.Source\MusicStore\MusicStore\bin\Antlr3.Runtime.dll
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.AspNet.dll
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.Core.dll
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.dll
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.dll
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\00.Source\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\00.Source\MusicStore\MusicStore\bin\Microsoft.Data.Edm.dll
+C:\00.Source\MusicStore\MusicStore\bin\Microsoft.Data.OData.dll
+C:\00.Source\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\00.Source\MusicStore\MusicStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\00.Source\MusicStore\MusicStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\00.Source\MusicStore\MusicStore\bin\Newtonsoft.Json.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Net.Http.Formatting.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Spatial.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Http.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Http.OData.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Http.WebHost.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Optimization.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Razor.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\00.Source\MusicStore\MusicStore\bin\WebGrease.dll
+C:\00.Source\MusicStore\MusicStore\bin\WebMatrix.WebData.dll
+C:\00.Source\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\00.Source\MusicStore\MusicStore\bin\Newtonsoft.Json.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Net.Http.Formatting.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Http.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Http.WebHost.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Razor.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\00.Source\MusicStore\MusicStore\bin\WebMatrix.Data.xml
+C:\00.Source\MusicStore\MusicStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\00.Source\MusicStore\MusicStore\bin\WebMatrix.WebData.xml
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.AspNet.xml
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.Core.xml
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.OAuth.xml
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.xml
+C:\00.Source\MusicStore\MusicStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Web.Http.OData.xml
+C:\00.Source\MusicStore\MusicStore\bin\Microsoft.Data.Edm.xml
+C:\00.Source\MusicStore\MusicStore\bin\Microsoft.Data.OData.xml
+C:\00.Source\MusicStore\MusicStore\bin\System.Spatial.xml
+C:\00.Source\MusicStore\MusicStore\bin\de\Microsoft.Data.Edm.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\es\Microsoft.Data.Edm.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\it\Microsoft.Data.Edm.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\de\Microsoft.Data.OData.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\es\Microsoft.Data.OData.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\fr\Microsoft.Data.OData.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\it\Microsoft.Data.OData.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\ja\Microsoft.Data.OData.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\ko\Microsoft.Data.OData.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\ru\Microsoft.Data.OData.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\de\System.Spatial.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\es\System.Spatial.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\fr\System.Spatial.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\it\System.Spatial.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\ja\System.Spatial.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\ko\System.Spatial.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\ru\System.Spatial.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\zh-Hans\System.Spatial.resources.dll
+C:\00.Source\MusicStore\MusicStore\bin\zh-Hant\System.Spatial.resources.dll
+C:\00.Source\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\00.Source\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\00.Source\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
