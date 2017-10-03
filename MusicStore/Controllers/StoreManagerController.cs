@@ -16,18 +16,27 @@ namespace MusicStore.Controllers
         //
         // GET: /StoreManager/
 
-        public ViewResult Index()
-        {
-            var albums = db.Albums.Include(a => a.Genre).Include(a => a.Artist);
-            return View(albums.ToList());
-        }
-
         //public ActionResult Index()
         //{
-        //    return View(db.Albums.ToList());
+        //    var albums = db.Albums.Include(a => a.Genre).Include(a => a.Artist);
+        //    return View(albums.ToList());
         //}
 
-        //
+        public ActionResult Index()
+        {
+            //var genres = db.Genres.ToList();
+            //return View(genres);
+
+            var genres = new List<Genre>
+            {
+             new Genre { Name = "Disco"},
+             new Genre { Name = "Jazz"},
+             new Genre { Name = "Rock"}
+            };
+            return View(genres);
+        }
+
+        
         // GET: /StoreManager/Details/5
 
         public ActionResult Details(int id = 0)
@@ -65,14 +74,22 @@ namespace MusicStore.Controllers
             return View(album);
         }
 
+        //public ActionResult Browse(string genre)
+        //{
+        //     Retrieve Genre and its Associated Albums from database
+        //    var genreModel = db.Genres.Include("Albums")
+        //    .Single(g => g.Name == genre);
+        //    return View(genreModel);
+        //}
+
         //
         // GET: /StoreManager/Edit/5
 
         public ActionResult Edit(int id = 0)
         {
             Album album = db.Albums.Find(id);
-            //ViewBag.GenreID = new SelectList(db.Genres, "GenreID", "Name", album.GenreID);
-            //ViewBag.ArtistID = new SelectList(db.Artists, "ArtistID", "Name", album.ArtistID);
+            ViewBag.GenreID = new SelectList(db.Genres, "GenreID", "Name", album.GenreID);
+            ViewBag.ArtistID = new SelectList(db.Artists, "ArtistID", "Name", album.ArtistID);
 
             if (album == null)
             {

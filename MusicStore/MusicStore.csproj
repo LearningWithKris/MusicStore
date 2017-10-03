@@ -195,6 +195,7 @@
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\MusicStoreDB.cs" />
     <Compile Include="Models\MusicStoreDbInitializer.cs" />
+    <Compile Include="Models\SampleData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -315,6 +316,7 @@
     <Content Include="Views\StoreManager\Create.cshtml" />
     <Content Include="Views\StoreManager\Edit.cshtml" />
     <Content Include="Views\StoreManager\Delete.cshtml" />
+    <Content Include="Views\StoreManager\Browse.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

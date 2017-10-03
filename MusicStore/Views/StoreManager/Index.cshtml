@@ -18,6 +18,12 @@
             @Html.DisplayNameFor(model => model.ArtistID)
         </th>
         <th>
+            @Html.DisplayNameFor(model => model.Artist)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Genre)
+        </th>
+        <th>
             @Html.DisplayNameFor(model => model.Title)
         </th>
         <th>
@@ -26,12 +32,8 @@
         <th>
             @Html.DisplayNameFor(model => model.AlbumArtUrl)
         </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Genre)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Artist)
-        </th>
+        
+        
         <th></th>
     </tr>
 
@@ -44,6 +46,12 @@
             @Html.DisplayFor(modelItem => item.ArtistID)
         </td>
         <td>
+            @Html.DisplayFor(modelItem => item.Artist)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Genre)
+        </td>
+        <td>
             @Html.DisplayFor(modelItem => item.Title)
         </td>
         <td>
@@ -52,12 +60,8 @@
         <td>
             @Html.DisplayFor(modelItem => item.AlbumArtUrl)
         </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Genre)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Artist)
-        </td>
+       
+        
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.AlbumID }) |
             @Html.ActionLink("Details", "Details", new { id=item.AlbumID }) |
