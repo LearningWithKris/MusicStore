@@ -28,5 +28,12 @@ namespace MusicStore.Controllers
 
             return View();
         }
+
+        public ActionResult StoreManager()
+        {
+            ViewBag.Message = "Store manager page.";
+
+            return View();
+        }
     }
 }

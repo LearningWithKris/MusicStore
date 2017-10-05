@@ -195,7 +195,6 @@
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\MusicStoreDB.cs" />
     <Compile Include="Models\MusicStoreDbInitializer.cs" />
-    <Compile Include="Models\SampleData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
