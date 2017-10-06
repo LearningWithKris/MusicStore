@@ -31,7 +31,7 @@ namespace MusicStore.Controllers
 
         public ActionResult StoreManager()
         {
-            ViewBag.Message = "Store manager page.";
+            ViewBag.Message = "This is the store manager page.";
 
             return View();
         }
