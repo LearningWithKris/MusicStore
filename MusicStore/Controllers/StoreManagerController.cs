@@ -27,11 +27,11 @@ namespace MusicStore.Controllers
             //var genres = db.Genres.ToList();
             //return View(genres);
 
-            var genres = new List<Genre>
+            var genres = new List<Album>
             {
-             new Genre { Name = "Disco"},
-             new Genre { Name = "Jazz"},
-             new Genre { Name = "Rock"}
+             new Album { Title = "Slippery When Wet"},
+             new Album { Title = "Petra World Tour"},
+             new Album { Title = "The Colour of My Love"}
             };
 
             // NOTE: This will not work because the Index view takes a IEnumerable<MusicStore.Models.Album> or List<Album> 
