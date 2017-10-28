@@ -59,11 +59,11 @@ namespace MusicStore.Controllers
             return View(album);
         }
 
-        public ActionResult Browse(string album)
+        public ActionResult Browse(string artist)
         {
-            //Retrieve Genre and its Associated Albums from database
-            var genreModel = db.Genres.Include("Albums").Single(g => g.Name == album);
-            return View(genreModel);
+            //Retrieve Album and its Associated info from database
+            var artistModel = db.Artists.Include("Artists").Single(a => a.Name == artist);
+            return View(artistModel);
         }
 
         
