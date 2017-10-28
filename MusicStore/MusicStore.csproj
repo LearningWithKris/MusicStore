@@ -319,8 +319,8 @@
     <Content Include="Views\StoreManager\Create.cshtml" />
     <Content Include="Views\StoreManager\Edit.cshtml" />
     <Content Include="Views\StoreManager\Delete.cshtml" />
-    <Content Include="Views\StoreManager\Browse.cshtml" />
     <Content Include="Views\Home\StoreManager.cshtml" />
+    <Content Include="Views\StoreManager\Browse.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

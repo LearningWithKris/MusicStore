@@ -59,15 +59,14 @@ namespace MusicStore.Controllers
             return View(album);
         }
 
-        //public ActionResult Browse(string genre)
-        //{
-        //     Retrieve Genre and its Associated Albums from database
-        //    var genreModel = db.Genres.Include("Albums")
-        //    .Single(g => g.Name == genre);
-        //    return View(genreModel);
-        //}
+        public ActionResult Browse(string album)
+        {
+            //Retrieve Genre and its Associated Albums from database
+            var genreModel = db.Genres.Include("Albums").Single(g => g.Name == album);
+            return View(genreModel);
+        }
 
-        //
+        
         // GET: /StoreManager/Edit/5
         [HttpGet]
         public ActionResult Edit(int id = 0)
