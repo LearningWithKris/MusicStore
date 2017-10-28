@@ -22,25 +22,6 @@ namespace MusicStore.Controllers
             return View(albums.ToList());
         }
 
-        //public ActionResult Index()
-        //{
-
-        //    var genres = db.Genres.ToList();
-        //    //return View(genres);
-
-        //    //var genres = new List<Genre>
-        //    //{
-        //    // new Genre { Name = "Disco"},
-        //    // new Genre { Name = "Jazz"},
-        //    // new Genre { Name = "Rock"}
-        //    //};
-
-        //    // NOTE: This will not work because the Index view takes a IEnumerable<MusicStore.Models.Album> or List<Album> 
-        //    // this is trying to send List<Genre>. Look at what was being sent in the Index method above.
-        //    return View(genres);
-        //}
-
-
         // GET: /StoreManager/Details/5
 
         public ActionResult Details(int id = 0)
