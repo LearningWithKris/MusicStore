@@ -7,11 +7,12 @@ using System.Data.Entity;
 namespace MusicStore.Models
 {
     //public class MusicStoreDbInitializer: DropCreateDatabaseAlways<MusicStoreDB>
-    public class MusicStoreDbInitializer: CreateDatabaseIfNotExists<MusicStoreDB> // DropCreateDatabaseAlways<MusicStoreDB>
+    //public class MusicStoreDbInitializer: CreateDatabaseIfNotExists<MusicStoreDB> // DropCreateDatabaseAlways<MusicStoreDB>
+    public class MusicStoreDbInitializer: CreateDatabaseIfNotExists<MusicStoreDB> // <MusicStoreDB>
     {
         protected override void Seed(MusicStoreDB context)
         {
-            
+
 
             //context.Artists.Add(new Artist { Name = "Bon Jovi" });
             //context.Genres.Add(new Genre { Name = "80s Hair Band" });

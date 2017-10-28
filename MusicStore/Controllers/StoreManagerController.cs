@@ -16,32 +16,12 @@ namespace MusicStore.Controllers
         //
         // GET: /StoreManager/
 
-        //public ActionResult Index()
-        //{
-        //    var albums = db.Albums.Include(a => a.Genre).Include(a => a.Artist);
-        //    return View(albums.ToList());
-        //}
-
         public ActionResult Index()
         {
-            var albums = db.Albums.ToList();
-            //var genres = db.Genres.ToList();
-            //return View(genres);
-
-            //var albums = new List<Album>
-            //{
-            // new Album { Title = "Slippery When Wet", AlbumID=1},
-            // new Album { Title = "Petra World Tour", AlbumID=2},
-            // new Album { Title = "The Colour of My Love", AlbumID=3},
-            // new Album { Title = "Hysteria", AlbumID=4}
-            //};
-
-            // NOTE: This will not work because the Index view takes a IEnumerable<MusicStore.Models.Album> or List<Album> 
-            // this is trying to send List<Genre>. Look at what was being sent in the Index method above.
-            return View(albums);
+            var albums = db.Albums.Include(a => a.Genre).Include(a => a.Artist);
+            return View(albums.ToList());
         }
 
-        
         // GET: /StoreManager/Details/5
 
         public ActionResult Details(int id = 0)
