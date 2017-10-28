@@ -6,8 +6,8 @@ using System.Data.Entity;
 
 namespace MusicStore.Models
 {
-    public class MusicStoreDbInitializer: DropCreateDatabaseAlways<MusicStoreDB>
-    //public class MusicStoreDbInitializer: CreateDatabaseIfNotExists<MusicStoreDB> // DropCreateDatabaseAlways<MusicStoreDB>
+    //public class MusicStoreDbInitializer: DropCreateDatabaseAlways<MusicStoreDB>
+    public class MusicStoreDbInitializer : CreateDatabaseIfNotExists<MusicStoreDB> // DropCreateDatabaseAlways<MusicStoreDB>
     {
         protected override void Seed(MusicStoreDB context)
         {

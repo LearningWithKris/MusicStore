@@ -18,8 +18,9 @@ namespace MusicStore
     {
         protected void Application_Start()
         {
+            Database.SetInitializer(new SampleData());
             //Database.SetInitializer(new DropCreateDatabaseAlways<MusicStoreDB>());
-            Database.SetInitializer(new MusicStoreDbInitializer());
+            //Database.SetInitializer(new MusicStoreDbInitializer());
             //System.Data.Entity.Database.SetInitializer(new System.Data.Entity.DropCreateDatabaseIfModelChanges<MusicStore.Models.MusicStoreDB>());
 
             AreaRegistration.RegisterAllAreas();
