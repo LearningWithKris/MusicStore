@@ -59,12 +59,12 @@ namespace MusicStore.Controllers
             return View(album);
         }
 
-        public ActionResult Browse(string artist)
-        {
-            //Retrieve Album and its Associated info from database
-            var artistModel = db.Artists.Include("Artists").Single(a => a.Name == artist);
-            return View(artistModel);
-        }
+        //public ActionResult Browse(string artist)
+        //{
+        //    Retrieve Album and its Associated info from database
+        //    var artistModel = db.Artists.Include("Artists").Single(a => a.Name == artist);
+        //    return View(artistModel);
+        //}
 
         
         // GET: /StoreManager/Edit/5
