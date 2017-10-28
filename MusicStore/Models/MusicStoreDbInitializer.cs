@@ -35,6 +35,14 @@ namespace MusicStore.Models
                 Title = "Slippery When Wet"
             });
 
+            context.Albums.Add(new Album()
+            {
+                Artist = new Artist {Name = "Def Leppard"},
+                Genre = new Genre {Name = "80's Hair Band"},
+                Price = 5.99m,
+                Title = "Hysteria"
+            });
+
             // Kris Added
             context.Albums.Add(new Album()
             {
