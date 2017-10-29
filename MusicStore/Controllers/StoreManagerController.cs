@@ -59,12 +59,22 @@ namespace MusicStore.Controllers
             return View(album);
         }
 
+
         //public ActionResult Browse(string artist)
         //{
         //    Retrieve Album and its Associated info from database
         //    var artistModel = db.Artists.Include("Artists").Single(a => a.Name == artist);
         //    return View(artistModel);
         //}
+
+        public ActionResult Browse(string genre)
+        {
+            // The model you are creating here has to match the one being sent to the cshtml.
+            // You see I changed it to match Genre. It doesn't matter that we are using Artist in the Index view.
+            // This will display genre information and can be accessed from many locations.
+            var genreModel = new Genre { Name = genre };
+            return View(genreModel);
+        }
 
         
         // GET: /StoreManager/Edit/5
