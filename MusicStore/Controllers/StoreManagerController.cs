@@ -18,8 +18,14 @@ namespace MusicStore.Controllers
 
         public ActionResult Index()
         {
-            var albums = db.Albums.Include(a => a.Genre).Include(a => a.Artist);
-            return View(albums.ToList());
+            //var albums = db.Albums.Include(a => a.Genre).Include(a => a.Artist);
+            //return View(albums.ToList());
+
+            //var genres = db.Genres.Include(a => a.Albums);
+            //return View(genres.ToList());
+
+            var genres = db.Genres.ToList();
+            return View(genres);
         }
 
         // GET: /StoreManager/Details/5
@@ -72,7 +78,11 @@ namespace MusicStore.Controllers
             // The model you are creating here has to match the one being sent to the cshtml.
             // You see I changed it to match Genre. It doesn't matter that we are using Artist in the Index view.
             // This will display genre information and can be accessed from many locations.
-            var genreModel = new Genre { Name = genre };
+            
+            //var genreModel = new Genre { Name = genre };
+            //return View(genreModel);
+            
+            var genreModel = db.Genres.Include("Albums").Single(g => g.Name == genre);
             return View(genreModel);
         }
 
