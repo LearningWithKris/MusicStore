@@ -18,14 +18,14 @@ namespace MusicStore.Controllers
 
         public ActionResult Index()
         {
-            //var albums = db.Albums.Include(a => a.Genre).Include(a => a.Artist);
-            //return View(albums.ToList());
+            var albums = db.Albums.Include(a => a.Genre).Include(a => a.Artist);
+            return View(albums.ToList());
 
             //var genres = db.Genres.Include(a => a.Albums);
             //return View(genres.ToList());
 
-            var genres = db.Genres.ToList();
-            return View(genres);
+            //var genres = db.Genres.ToList();
+            //return View(genres);
         }
 
         // GET: /StoreManager/Details/5

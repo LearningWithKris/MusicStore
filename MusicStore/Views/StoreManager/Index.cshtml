@@ -1,15 +1,61 @@
-﻿@model IEnumerable<MusicStore.Models.Genre>
+﻿@model IEnumerable<MusicStore.Models.Album>
 
-@{
+@*@{
     ViewBag.Title = "Store";
-}
+}*@
 
-<h2>Browse Genres</h2>
+<h2>List of Albums</h2>
 
-<p> Select from @Model.Count() genres:</p>
+@*<p> Select from @Model.Count() genres:</p>
 <ul>
         @foreach (var genre in Model)
     {
         <li>@Html.ActionLink(genre.Name, "Browse", new { genre = genre.Name })</li>
     }
-</ul>
+</ul>*@
+
+@{
+    ViewBag.Title = "Index"; }
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            Genre
+        </th>
+        <th>
+            Artist
+        </th>
+        <th>
+            Title
+        </th>
+        <th>
+            Price
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Artist.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.AlbumID })
+                @Html.ActionLink("Details", "Details", new { id = item.AlbumID })
+                @Html.ActionLink("Delete", "Delete", new { id = item.AlbumID })
+            </td>
+        </tr>
+    }
+</table>

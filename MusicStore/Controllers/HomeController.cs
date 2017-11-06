@@ -35,5 +35,12 @@ namespace MusicStore.Controllers
 
             return View();
         }
+
+        public ActionResult Browsing()
+        {
+            ViewBag.Message = "This is the browsing page.";
+
+            return View();
+        }
     }
 }
