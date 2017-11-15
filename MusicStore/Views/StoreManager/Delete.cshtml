@@ -4,10 +4,10 @@
     ViewBag.Title = "Delete";
 }
 
-<h2>Delete</h2>
+<h2>Delete confirmation</h2>
 
 <h3>Are you sure you want to delete this?</h3>
-<fieldset>
+@*<fieldset>
     <legend>Album</legend>
 
     <div class="display-label">
@@ -58,7 +58,12 @@
     <div class="display-field">
         @Html.DisplayFor(model => model.Artist)
     </div>
-</fieldset>
+</fieldset>*@
+<p>
+    Are you sure you want to delete the album titled 
+    <strong>@Model.Title</strong>?
+</p>
+
 @using (Html.BeginForm()) {
     @Html.AntiForgeryToken()
     <p>

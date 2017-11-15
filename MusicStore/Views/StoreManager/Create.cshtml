@@ -34,6 +34,7 @@
         </div>
         <div class="editor-field">
             @Html.EditorFor(model => model.Artist)
+            @*@Html.DropDownList("ArtistId", String.Empty)*@
             @Html.ValidationMessageFor(model => model.Artist)
         </div>
 
@@ -41,7 +42,8 @@
             @Html.LabelFor(model => model.Genre)
         </div>
         <div class="editor-field">
-            @Html.EditorFor(model => model.Genre)
+            @Html.DropDownList("GenreID", String.Empty)
+            @*@Html.EditorFor(model => model.Genre)*@
             @Html.ValidationMessageFor(model => model.Genre)
         </div>
         

@@ -45,6 +45,8 @@ namespace MusicStore.Controllers
 
         public ActionResult Create()
         {
+            ViewBag.GenreId = new SelectList(db.Genres, "GenreId", "Name");
+            ViewBag.ArtistId = new SelectList(db.Artists, "ArtistId", "Name");
             return View();
         }
 
@@ -61,7 +63,8 @@ namespace MusicStore.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-
+            ViewBag.GenreId = new SelectList(db.Genres, "GenreId", "Name", album.GenreID);
+            ViewBag.ArtistId = new SelectList(db.Artists, "ArtistId", "Name", album.ArtistID);
             return View(album);
         }
 
@@ -82,8 +85,11 @@ namespace MusicStore.Controllers
             //var genreModel = new Genre { Name = genre };
             //return View(genreModel);
             
-            var genreModel = db.Genres.Include("Albums").Single(g => g.Name == genre);
+            var genreModel = db.Genres.Include("Albums").Single(a => a.Name == genre);
             return View(genreModel);
+
+            //var albums = db.Albums.Include(a => a.Genre).Include(a => a.Artist);
+            //return View(albums.ToList());
         }
 
         
@@ -115,6 +121,8 @@ namespace MusicStore.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
+            ViewBag.GenreId = new SelectList(db.Genres, "GenreId", "Name", album.GenreID);
+            ViewBag.ArtistId = new SelectList(db.Artists, "ArtistId", "Name", album.ArtistID);
             return View(album);
         }
 
